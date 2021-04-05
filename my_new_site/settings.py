@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-
+# Name:Saurabh Sunil Wani Batch:T4 PRN:1841058 Date:29/03/2021
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
